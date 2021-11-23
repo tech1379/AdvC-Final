@@ -1,0 +1,22 @@
+5
+management
+Fred Boston
+75000
+hourly
+Sally Sage
+10
+40
+hourly
+Clint Tucker
+10
+45
+salesman
+Wendy Darcy
+500
+.20
+10400
+salesman
+Darrel Oliver
+500
+.20
+9855
